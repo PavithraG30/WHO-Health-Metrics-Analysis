@@ -1,0 +1,2939 @@
+country_id,country_name,development_stage
+1,Afghanistan,Developing
+2,Afghanistan,Developing
+3,Afghanistan,Developing
+4,Afghanistan,Developing
+5,Afghanistan,Developing
+6,Afghanistan,Developing
+7,Afghanistan,Developing
+8,Afghanistan,Developing
+9,Afghanistan,Developing
+10,Afghanistan,Developing
+11,Afghanistan,Developing
+12,Afghanistan,Developing
+13,Afghanistan,Developing
+14,Afghanistan,Developing
+15,Afghanistan,Developing
+16,Afghanistan,Developing
+17,Albania,Developing
+18,Albania,Developing
+19,Albania,Developing
+20,Albania,Developing
+21,Albania,Developing
+22,Albania,Developing
+23,Albania,Developing
+24,Albania,Developing
+25,Albania,Developing
+26,Albania,Developing
+27,Albania,Developing
+28,Albania,Developing
+29,Albania,Developing
+30,Albania,Developing
+31,Albania,Developing
+32,Albania,Developing
+33,Algeria,Developing
+34,Algeria,Developing
+35,Algeria,Developing
+36,Algeria,Developing
+37,Algeria,Developing
+38,Algeria,Developing
+39,Algeria,Developing
+40,Algeria,Developing
+41,Algeria,Developing
+42,Algeria,Developing
+43,Algeria,Developing
+44,Algeria,Developing
+45,Algeria,Developing
+46,Algeria,Developing
+47,Algeria,Developing
+48,Algeria,Developing
+49,Angola,Developing
+50,Angola,Developing
+51,Angola,Developing
+52,Angola,Developing
+53,Angola,Developing
+54,Angola,Developing
+55,Angola,Developing
+56,Angola,Developing
+57,Angola,Developing
+58,Angola,Developing
+59,Angola,Developing
+60,Angola,Developing
+61,Angola,Developing
+62,Angola,Developing
+63,Angola,Developing
+64,Angola,Developing
+65,Antigua and Barbuda,Developing
+66,Antigua and Barbuda,Developing
+67,Antigua and Barbuda,Developing
+68,Antigua and Barbuda,Developing
+69,Antigua and Barbuda,Developing
+70,Antigua and Barbuda,Developing
+71,Antigua and Barbuda,Developing
+72,Antigua and Barbuda,Developing
+73,Antigua and Barbuda,Developing
+74,Antigua and Barbuda,Developing
+75,Antigua and Barbuda,Developing
+76,Antigua and Barbuda,Developing
+77,Antigua and Barbuda,Developing
+78,Antigua and Barbuda,Developing
+79,Antigua and Barbuda,Developing
+80,Antigua and Barbuda,Developing
+81,Argentina,Developing
+82,Argentina,Developing
+83,Argentina,Developing
+84,Argentina,Developing
+85,Argentina,Developing
+86,Argentina,Developing
+87,Argentina,Developing
+88,Argentina,Developing
+89,Argentina,Developing
+90,Argentina,Developing
+91,Argentina,Developing
+92,Argentina,Developing
+93,Argentina,Developing
+94,Argentina,Developing
+95,Argentina,Developing
+96,Argentina,Developing
+97,Armenia,Developing
+98,Armenia,Developing
+99,Armenia,Developing
+100,Armenia,Developing
+101,Armenia,Developing
+102,Armenia,Developing
+103,Armenia,Developing
+104,Armenia,Developing
+105,Armenia,Developing
+106,Armenia,Developing
+107,Armenia,Developing
+108,Armenia,Developing
+109,Armenia,Developing
+110,Armenia,Developing
+111,Armenia,Developing
+112,Armenia,Developing
+113,Australia,Developed
+114,Australia,Developed
+115,Australia,Developed
+116,Australia,Developed
+117,Australia,Developed
+118,Australia,Developed
+119,Australia,Developed
+120,Australia,Developed
+121,Australia,Developed
+122,Australia,Developed
+123,Australia,Developed
+124,Australia,Developed
+125,Australia,Developed
+126,Australia,Developed
+127,Australia,Developed
+128,Australia,Developed
+129,Austria,Developed
+130,Austria,Developed
+131,Austria,Developed
+132,Austria,Developed
+133,Austria,Developed
+134,Austria,Developed
+135,Austria,Developed
+136,Austria,Developed
+137,Austria,Developed
+138,Austria,Developed
+139,Austria,Developed
+140,Austria,Developed
+141,Austria,Developed
+142,Austria,Developed
+143,Austria,Developed
+144,Austria,Developed
+145,Azerbaijan,Developing
+146,Azerbaijan,Developing
+147,Azerbaijan,Developing
+148,Azerbaijan,Developing
+149,Azerbaijan,Developing
+150,Azerbaijan,Developing
+151,Azerbaijan,Developing
+152,Azerbaijan,Developing
+153,Azerbaijan,Developing
+154,Azerbaijan,Developing
+155,Azerbaijan,Developing
+156,Azerbaijan,Developing
+157,Azerbaijan,Developing
+158,Azerbaijan,Developing
+159,Azerbaijan,Developing
+160,Azerbaijan,Developing
+161,Bahamas,Developing
+162,Bahamas,Developing
+163,Bahamas,Developing
+164,Bahamas,Developing
+165,Bahamas,Developing
+166,Bahamas,Developing
+167,Bahamas,Developing
+168,Bahamas,Developing
+169,Bahamas,Developing
+170,Bahamas,Developing
+171,Bahamas,Developing
+172,Bahamas,Developing
+173,Bahamas,Developing
+174,Bahamas,Developing
+175,Bahamas,Developing
+176,Bahamas,Developing
+177,Bahrain,Developing
+178,Bahrain,Developing
+179,Bahrain,Developing
+180,Bahrain,Developing
+181,Bahrain,Developing
+182,Bahrain,Developing
+183,Bahrain,Developing
+184,Bahrain,Developing
+185,Bahrain,Developing
+186,Bahrain,Developing
+187,Bahrain,Developing
+188,Bahrain,Developing
+189,Bahrain,Developing
+190,Bahrain,Developing
+191,Bahrain,Developing
+192,Bahrain,Developing
+193,Bangladesh,Developing
+194,Bangladesh,Developing
+195,Bangladesh,Developing
+196,Bangladesh,Developing
+197,Bangladesh,Developing
+198,Bangladesh,Developing
+199,Bangladesh,Developing
+200,Bangladesh,Developing
+201,Bangladesh,Developing
+202,Bangladesh,Developing
+203,Bangladesh,Developing
+204,Bangladesh,Developing
+205,Bangladesh,Developing
+206,Bangladesh,Developing
+207,Bangladesh,Developing
+208,Bangladesh,Developing
+209,Barbados,Developing
+210,Barbados,Developing
+211,Barbados,Developing
+212,Barbados,Developing
+213,Barbados,Developing
+214,Barbados,Developing
+215,Barbados,Developing
+216,Barbados,Developing
+217,Barbados,Developing
+218,Barbados,Developing
+219,Barbados,Developing
+220,Barbados,Developing
+221,Barbados,Developing
+222,Barbados,Developing
+223,Barbados,Developing
+224,Barbados,Developing
+225,Belarus,Developing
+226,Belarus,Developing
+227,Belarus,Developing
+228,Belarus,Developing
+229,Belarus,Developing
+230,Belarus,Developing
+231,Belarus,Developing
+232,Belarus,Developing
+233,Belarus,Developing
+234,Belarus,Developing
+235,Belarus,Developing
+236,Belarus,Developing
+237,Belarus,Developing
+238,Belarus,Developing
+239,Belarus,Developing
+240,Belarus,Developing
+241,Belgium,Developed
+242,Belgium,Developed
+243,Belgium,Developed
+244,Belgium,Developed
+245,Belgium,Developed
+246,Belgium,Developed
+247,Belgium,Developed
+248,Belgium,Developed
+249,Belgium,Developed
+250,Belgium,Developed
+251,Belgium,Developed
+252,Belgium,Developed
+253,Belgium,Developed
+254,Belgium,Developed
+255,Belgium,Developed
+256,Belgium,Developed
+257,Belize,Developing
+258,Belize,Developing
+259,Belize,Developing
+260,Belize,Developing
+261,Belize,Developing
+262,Belize,Developing
+263,Belize,Developing
+264,Belize,Developing
+265,Belize,Developing
+266,Belize,Developing
+267,Belize,Developing
+268,Belize,Developing
+269,Belize,Developing
+270,Belize,Developing
+271,Belize,Developing
+272,Belize,Developing
+273,Benin,Developing
+274,Benin,Developing
+275,Benin,Developing
+276,Benin,Developing
+277,Benin,Developing
+278,Benin,Developing
+279,Benin,Developing
+280,Benin,Developing
+281,Benin,Developing
+282,Benin,Developing
+283,Benin,Developing
+284,Benin,Developing
+285,Benin,Developing
+286,Benin,Developing
+287,Benin,Developing
+288,Benin,Developing
+289,Bhutan,Developing
+290,Bhutan,Developing
+291,Bhutan,Developing
+292,Bhutan,Developing
+293,Bhutan,Developing
+294,Bhutan,Developing
+295,Bhutan,Developing
+296,Bhutan,Developing
+297,Bhutan,Developing
+298,Bhutan,Developing
+299,Bhutan,Developing
+300,Bhutan,Developing
+301,Bhutan,Developing
+302,Bhutan,Developing
+303,Bhutan,Developing
+304,Bhutan,Developing
+305,Bolivia (Plurinational State of),Developing
+306,Bolivia (Plurinational State of),Developing
+307,Bolivia (Plurinational State of),Developing
+308,Bolivia (Plurinational State of),Developing
+309,Bolivia (Plurinational State of),Developing
+310,Bolivia (Plurinational State of),Developing
+311,Bolivia (Plurinational State of),Developing
+312,Bolivia (Plurinational State of),Developing
+313,Bolivia (Plurinational State of),Developing
+314,Bolivia (Plurinational State of),Developing
+315,Bolivia (Plurinational State of),Developing
+316,Bolivia (Plurinational State of),Developing
+317,Bolivia (Plurinational State of),Developing
+318,Bolivia (Plurinational State of),Developing
+319,Bolivia (Plurinational State of),Developing
+320,Bolivia (Plurinational State of),Developing
+321,Bosnia and Herzegovina,Developing
+322,Bosnia and Herzegovina,Developing
+323,Bosnia and Herzegovina,Developing
+324,Bosnia and Herzegovina,Developing
+325,Bosnia and Herzegovina,Developing
+326,Bosnia and Herzegovina,Developing
+327,Bosnia and Herzegovina,Developing
+328,Bosnia and Herzegovina,Developing
+329,Bosnia and Herzegovina,Developing
+330,Bosnia and Herzegovina,Developing
+331,Bosnia and Herzegovina,Developing
+332,Bosnia and Herzegovina,Developing
+333,Bosnia and Herzegovina,Developing
+334,Bosnia and Herzegovina,Developing
+335,Bosnia and Herzegovina,Developing
+336,Bosnia and Herzegovina,Developing
+337,Botswana,Developing
+338,Botswana,Developing
+339,Botswana,Developing
+340,Botswana,Developing
+341,Botswana,Developing
+342,Botswana,Developing
+343,Botswana,Developing
+344,Botswana,Developing
+345,Botswana,Developing
+346,Botswana,Developing
+347,Botswana,Developing
+348,Botswana,Developing
+349,Botswana,Developing
+350,Botswana,Developing
+351,Botswana,Developing
+352,Botswana,Developing
+353,Brazil,Developing
+354,Brazil,Developing
+355,Brazil,Developing
+356,Brazil,Developing
+357,Brazil,Developing
+358,Brazil,Developing
+359,Brazil,Developing
+360,Brazil,Developing
+361,Brazil,Developing
+362,Brazil,Developing
+363,Brazil,Developing
+364,Brazil,Developing
+365,Brazil,Developing
+366,Brazil,Developing
+367,Brazil,Developing
+368,Brazil,Developing
+369,Brunei Darussalam,Developing
+370,Brunei Darussalam,Developing
+371,Brunei Darussalam,Developing
+372,Brunei Darussalam,Developing
+373,Brunei Darussalam,Developing
+374,Brunei Darussalam,Developing
+375,Brunei Darussalam,Developing
+376,Brunei Darussalam,Developing
+377,Brunei Darussalam,Developing
+378,Brunei Darussalam,Developing
+379,Brunei Darussalam,Developing
+380,Brunei Darussalam,Developing
+381,Brunei Darussalam,Developing
+382,Brunei Darussalam,Developing
+383,Brunei Darussalam,Developing
+384,Brunei Darussalam,Developing
+385,Bulgaria,Developed
+386,Bulgaria,Developed
+387,Bulgaria,Developed
+388,Bulgaria,Developed
+389,Bulgaria,Developed
+390,Bulgaria,Developed
+391,Bulgaria,Developed
+392,Bulgaria,Developed
+393,Bulgaria,Developed
+394,Bulgaria,Developed
+395,Bulgaria,Developed
+396,Bulgaria,Developed
+397,Bulgaria,Developed
+398,Bulgaria,Developed
+399,Bulgaria,Developed
+400,Bulgaria,Developed
+401,Burkina Faso,Developing
+402,Burkina Faso,Developing
+403,Burkina Faso,Developing
+404,Burkina Faso,Developing
+405,Burkina Faso,Developing
+406,Burkina Faso,Developing
+407,Burkina Faso,Developing
+408,Burkina Faso,Developing
+409,Burkina Faso,Developing
+410,Burkina Faso,Developing
+411,Burkina Faso,Developing
+412,Burkina Faso,Developing
+413,Burkina Faso,Developing
+414,Burkina Faso,Developing
+415,Burkina Faso,Developing
+416,Burkina Faso,Developing
+417,Burundi,Developing
+418,Burundi,Developing
+419,Burundi,Developing
+420,Burundi,Developing
+421,Burundi,Developing
+422,Burundi,Developing
+423,Burundi,Developing
+424,Burundi,Developing
+425,Burundi,Developing
+426,Burundi,Developing
+427,Burundi,Developing
+428,Burundi,Developing
+429,Burundi,Developing
+430,Burundi,Developing
+431,Burundi,Developing
+432,Burundi,Developing
+433,Côte d'Ivoire,Developing
+434,Côte d'Ivoire,Developing
+435,Côte d'Ivoire,Developing
+436,Côte d'Ivoire,Developing
+437,Côte d'Ivoire,Developing
+438,Côte d'Ivoire,Developing
+439,Côte d'Ivoire,Developing
+440,Côte d'Ivoire,Developing
+441,Côte d'Ivoire,Developing
+442,Côte d'Ivoire,Developing
+443,Côte d'Ivoire,Developing
+444,Côte d'Ivoire,Developing
+445,Côte d'Ivoire,Developing
+446,Côte d'Ivoire,Developing
+447,Côte d'Ivoire,Developing
+448,Côte d'Ivoire,Developing
+449,Cabo Verde,Developing
+450,Cabo Verde,Developing
+451,Cabo Verde,Developing
+452,Cabo Verde,Developing
+453,Cabo Verde,Developing
+454,Cabo Verde,Developing
+455,Cabo Verde,Developing
+456,Cabo Verde,Developing
+457,Cabo Verde,Developing
+458,Cabo Verde,Developing
+459,Cabo Verde,Developing
+460,Cabo Verde,Developing
+461,Cabo Verde,Developing
+462,Cabo Verde,Developing
+463,Cabo Verde,Developing
+464,Cabo Verde,Developing
+465,Cambodia,Developing
+466,Cambodia,Developing
+467,Cambodia,Developing
+468,Cambodia,Developing
+469,Cambodia,Developing
+470,Cambodia,Developing
+471,Cambodia,Developing
+472,Cambodia,Developing
+473,Cambodia,Developing
+474,Cambodia,Developing
+475,Cambodia,Developing
+476,Cambodia,Developing
+477,Cambodia,Developing
+478,Cambodia,Developing
+479,Cambodia,Developing
+480,Cambodia,Developing
+481,Cameroon,Developing
+482,Cameroon,Developing
+483,Cameroon,Developing
+484,Cameroon,Developing
+485,Cameroon,Developing
+486,Cameroon,Developing
+487,Cameroon,Developing
+488,Cameroon,Developing
+489,Cameroon,Developing
+490,Cameroon,Developing
+491,Cameroon,Developing
+492,Cameroon,Developing
+493,Cameroon,Developing
+494,Cameroon,Developing
+495,Cameroon,Developing
+496,Cameroon,Developing
+497,Canada,Developing
+498,Canada,Developing
+499,Canada,Developing
+500,Canada,Developing
+501,Canada,Developing
+502,Canada,Developing
+503,Canada,Developing
+504,Canada,Developing
+505,Canada,Developing
+506,Canada,Developing
+507,Canada,Developing
+508,Canada,Developing
+509,Canada,Developing
+510,Canada,Developing
+511,Canada,Developing
+512,Canada,Developing
+513,Central African Republic,Developing
+514,Central African Republic,Developing
+515,Central African Republic,Developing
+516,Central African Republic,Developing
+517,Central African Republic,Developing
+518,Central African Republic,Developing
+519,Central African Republic,Developing
+520,Central African Republic,Developing
+521,Central African Republic,Developing
+522,Central African Republic,Developing
+523,Central African Republic,Developing
+524,Central African Republic,Developing
+525,Central African Republic,Developing
+526,Central African Republic,Developing
+527,Central African Republic,Developing
+528,Central African Republic,Developing
+529,Chad,Developing
+530,Chad,Developing
+531,Chad,Developing
+532,Chad,Developing
+533,Chad,Developing
+534,Chad,Developing
+535,Chad,Developing
+536,Chad,Developing
+537,Chad,Developing
+538,Chad,Developing
+539,Chad,Developing
+540,Chad,Developing
+541,Chad,Developing
+542,Chad,Developing
+543,Chad,Developing
+544,Chad,Developing
+545,Chile,Developing
+546,Chile,Developing
+547,Chile,Developing
+548,Chile,Developing
+549,Chile,Developing
+550,Chile,Developing
+551,Chile,Developing
+552,Chile,Developing
+553,Chile,Developing
+554,Chile,Developing
+555,Chile,Developing
+556,Chile,Developing
+557,Chile,Developing
+558,Chile,Developing
+559,Chile,Developing
+560,Chile,Developing
+561,China,Developing
+562,China,Developing
+563,China,Developing
+564,China,Developing
+565,China,Developing
+566,China,Developing
+567,China,Developing
+568,China,Developing
+569,China,Developing
+570,China,Developing
+571,China,Developing
+572,China,Developing
+573,China,Developing
+574,China,Developing
+575,China,Developing
+576,China,Developing
+577,Colombia,Developing
+578,Colombia,Developing
+579,Colombia,Developing
+580,Colombia,Developing
+581,Colombia,Developing
+582,Colombia,Developing
+583,Colombia,Developing
+584,Colombia,Developing
+585,Colombia,Developing
+586,Colombia,Developing
+587,Colombia,Developing
+588,Colombia,Developing
+589,Colombia,Developing
+590,Colombia,Developing
+591,Colombia,Developing
+592,Colombia,Developing
+593,Comoros,Developing
+594,Comoros,Developing
+595,Comoros,Developing
+596,Comoros,Developing
+597,Comoros,Developing
+598,Comoros,Developing
+599,Comoros,Developing
+600,Comoros,Developing
+601,Comoros,Developing
+602,Comoros,Developing
+603,Comoros,Developing
+604,Comoros,Developing
+605,Comoros,Developing
+606,Comoros,Developing
+607,Comoros,Developing
+608,Comoros,Developing
+609,Congo,Developing
+610,Congo,Developing
+611,Congo,Developing
+612,Congo,Developing
+613,Congo,Developing
+614,Congo,Developing
+615,Congo,Developing
+616,Congo,Developing
+617,Congo,Developing
+618,Congo,Developing
+619,Congo,Developing
+620,Congo,Developing
+621,Congo,Developing
+622,Congo,Developing
+623,Congo,Developing
+624,Congo,Developing
+625,Cook Islands,Developing
+626,Costa Rica,Developing
+627,Costa Rica,Developing
+628,Costa Rica,Developing
+629,Costa Rica,Developing
+630,Costa Rica,Developing
+631,Costa Rica,Developing
+632,Costa Rica,Developing
+633,Costa Rica,Developing
+634,Costa Rica,Developing
+635,Costa Rica,Developing
+636,Costa Rica,Developing
+637,Costa Rica,Developing
+638,Costa Rica,Developing
+639,Costa Rica,Developing
+640,Costa Rica,Developing
+641,Costa Rica,Developing
+642,Croatia,Developed
+643,Croatia,Developed
+644,Croatia,Developed
+645,Croatia,Developed
+646,Croatia,Developed
+647,Croatia,Developed
+648,Croatia,Developed
+649,Croatia,Developed
+650,Croatia,Developed
+651,Croatia,Developed
+652,Croatia,Developed
+653,Croatia,Developed
+654,Croatia,Developed
+655,Croatia,Developed
+656,Croatia,Developed
+657,Croatia,Developed
+658,Cuba,Developing
+659,Cuba,Developing
+660,Cuba,Developing
+661,Cuba,Developing
+662,Cuba,Developing
+663,Cuba,Developing
+664,Cuba,Developing
+665,Cuba,Developing
+666,Cuba,Developing
+667,Cuba,Developing
+668,Cuba,Developing
+669,Cuba,Developing
+670,Cuba,Developing
+671,Cuba,Developing
+672,Cuba,Developing
+673,Cuba,Developing
+674,Cyprus,Developed
+675,Cyprus,Developed
+676,Cyprus,Developed
+677,Cyprus,Developed
+678,Cyprus,Developed
+679,Cyprus,Developed
+680,Cyprus,Developed
+681,Cyprus,Developed
+682,Cyprus,Developed
+683,Cyprus,Developed
+684,Cyprus,Developed
+685,Cyprus,Developed
+686,Cyprus,Developed
+687,Cyprus,Developed
+688,Cyprus,Developed
+689,Cyprus,Developed
+690,Czechia,Developed
+691,Czechia,Developed
+692,Czechia,Developed
+693,Czechia,Developed
+694,Czechia,Developed
+695,Czechia,Developed
+696,Czechia,Developed
+697,Czechia,Developed
+698,Czechia,Developed
+699,Czechia,Developed
+700,Czechia,Developed
+701,Czechia,Developed
+702,Czechia,Developed
+703,Czechia,Developed
+704,Czechia,Developed
+705,Czechia,Developed
+706,Democratic People's Republic of Korea,Developing
+707,Democratic People's Republic of Korea,Developing
+708,Democratic People's Republic of Korea,Developing
+709,Democratic People's Republic of Korea,Developing
+710,Democratic People's Republic of Korea,Developing
+711,Democratic People's Republic of Korea,Developing
+712,Democratic People's Republic of Korea,Developing
+713,Democratic People's Republic of Korea,Developing
+714,Democratic People's Republic of Korea,Developing
+715,Democratic People's Republic of Korea,Developing
+716,Democratic People's Republic of Korea,Developing
+717,Democratic People's Republic of Korea,Developing
+718,Democratic People's Republic of Korea,Developing
+719,Democratic People's Republic of Korea,Developing
+720,Democratic People's Republic of Korea,Developing
+721,Democratic People's Republic of Korea,Developing
+722,Democratic Republic of the Congo,Developing
+723,Democratic Republic of the Congo,Developing
+724,Democratic Republic of the Congo,Developing
+725,Democratic Republic of the Congo,Developing
+726,Democratic Republic of the Congo,Developing
+727,Democratic Republic of the Congo,Developing
+728,Democratic Republic of the Congo,Developing
+729,Democratic Republic of the Congo,Developing
+730,Democratic Republic of the Congo,Developing
+731,Democratic Republic of the Congo,Developing
+732,Democratic Republic of the Congo,Developing
+733,Democratic Republic of the Congo,Developing
+734,Democratic Republic of the Congo,Developing
+735,Democratic Republic of the Congo,Developing
+736,Democratic Republic of the Congo,Developing
+737,Democratic Republic of the Congo,Developing
+738,Denmark,Developed
+739,Denmark,Developed
+740,Denmark,Developed
+741,Denmark,Developed
+742,Denmark,Developed
+743,Denmark,Developed
+744,Denmark,Developed
+745,Denmark,Developed
+746,Denmark,Developed
+747,Denmark,Developed
+748,Denmark,Developed
+749,Denmark,Developed
+750,Denmark,Developed
+751,Denmark,Developed
+752,Denmark,Developed
+753,Denmark,Developed
+754,Djibouti,Developing
+755,Djibouti,Developing
+756,Djibouti,Developing
+757,Djibouti,Developing
+758,Djibouti,Developing
+759,Djibouti,Developing
+760,Djibouti,Developing
+761,Djibouti,Developing
+762,Djibouti,Developing
+763,Djibouti,Developing
+764,Djibouti,Developing
+765,Djibouti,Developing
+766,Djibouti,Developing
+767,Djibouti,Developing
+768,Djibouti,Developing
+769,Djibouti,Developing
+770,Dominica,Developing
+771,Dominican Republic,Developing
+772,Dominican Republic,Developing
+773,Dominican Republic,Developing
+774,Dominican Republic,Developing
+775,Dominican Republic,Developing
+776,Dominican Republic,Developing
+777,Dominican Republic,Developing
+778,Dominican Republic,Developing
+779,Dominican Republic,Developing
+780,Dominican Republic,Developing
+781,Dominican Republic,Developing
+782,Dominican Republic,Developing
+783,Dominican Republic,Developing
+784,Dominican Republic,Developing
+785,Dominican Republic,Developing
+786,Dominican Republic,Developing
+787,Ecuador,Developing
+788,Ecuador,Developing
+789,Ecuador,Developing
+790,Ecuador,Developing
+791,Ecuador,Developing
+792,Ecuador,Developing
+793,Ecuador,Developing
+794,Ecuador,Developing
+795,Ecuador,Developing
+796,Ecuador,Developing
+797,Ecuador,Developing
+798,Ecuador,Developing
+799,Ecuador,Developing
+800,Ecuador,Developing
+801,Ecuador,Developing
+802,Ecuador,Developing
+803,Egypt,Developing
+804,Egypt,Developing
+805,Egypt,Developing
+806,Egypt,Developing
+807,Egypt,Developing
+808,Egypt,Developing
+809,Egypt,Developing
+810,Egypt,Developing
+811,Egypt,Developing
+812,Egypt,Developing
+813,Egypt,Developing
+814,Egypt,Developing
+815,Egypt,Developing
+816,Egypt,Developing
+817,Egypt,Developing
+818,Egypt,Developing
+819,El Salvador,Developing
+820,El Salvador,Developing
+821,El Salvador,Developing
+822,El Salvador,Developing
+823,El Salvador,Developing
+824,El Salvador,Developing
+825,El Salvador,Developing
+826,El Salvador,Developing
+827,El Salvador,Developing
+828,El Salvador,Developing
+829,El Salvador,Developing
+830,El Salvador,Developing
+831,El Salvador,Developing
+832,El Salvador,Developing
+833,El Salvador,Developing
+834,El Salvador,Developing
+835,Equatorial Guinea,Developing
+836,Equatorial Guinea,Developing
+837,Equatorial Guinea,Developing
+838,Equatorial Guinea,Developing
+839,Equatorial Guinea,Developing
+840,Equatorial Guinea,Developing
+841,Equatorial Guinea,Developing
+842,Equatorial Guinea,Developing
+843,Equatorial Guinea,Developing
+844,Equatorial Guinea,Developing
+845,Equatorial Guinea,Developing
+846,Equatorial Guinea,Developing
+847,Equatorial Guinea,Developing
+848,Equatorial Guinea,Developing
+849,Equatorial Guinea,Developing
+850,Equatorial Guinea,Developing
+851,Eritrea,Developing
+852,Eritrea,Developing
+853,Eritrea,Developing
+854,Eritrea,Developing
+855,Eritrea,Developing
+856,Eritrea,Developing
+857,Eritrea,Developing
+858,Eritrea,Developing
+859,Eritrea,Developing
+860,Eritrea,Developing
+861,Eritrea,Developing
+862,Eritrea,Developing
+863,Eritrea,Developing
+864,Eritrea,Developing
+865,Eritrea,Developing
+866,Eritrea,Developing
+867,Estonia,Developing
+868,Estonia,Developing
+869,Estonia,Developing
+870,Estonia,Developing
+871,Estonia,Developing
+872,Estonia,Developing
+873,Estonia,Developing
+874,Estonia,Developing
+875,Estonia,Developing
+876,Estonia,Developing
+877,Estonia,Developing
+878,Estonia,Developing
+879,Estonia,Developing
+880,Estonia,Developing
+881,Estonia,Developing
+882,Estonia,Developing
+883,Ethiopia,Developing
+884,Ethiopia,Developing
+885,Ethiopia,Developing
+886,Ethiopia,Developing
+887,Ethiopia,Developing
+888,Ethiopia,Developing
+889,Ethiopia,Developing
+890,Ethiopia,Developing
+891,Ethiopia,Developing
+892,Ethiopia,Developing
+893,Ethiopia,Developing
+894,Ethiopia,Developing
+895,Ethiopia,Developing
+896,Ethiopia,Developing
+897,Ethiopia,Developing
+898,Ethiopia,Developing
+899,Fiji,Developing
+900,Fiji,Developing
+901,Fiji,Developing
+902,Fiji,Developing
+903,Fiji,Developing
+904,Fiji,Developing
+905,Fiji,Developing
+906,Fiji,Developing
+907,Fiji,Developing
+908,Fiji,Developing
+909,Fiji,Developing
+910,Fiji,Developing
+911,Fiji,Developing
+912,Fiji,Developing
+913,Fiji,Developing
+914,Fiji,Developing
+915,Finland,Developing
+916,Finland,Developing
+917,Finland,Developing
+918,Finland,Developing
+919,Finland,Developing
+920,Finland,Developing
+921,Finland,Developing
+922,Finland,Developing
+923,Finland,Developing
+924,Finland,Developing
+925,Finland,Developing
+926,Finland,Developing
+927,Finland,Developing
+928,Finland,Developing
+929,Finland,Developing
+930,Finland,Developing
+931,France,Developing
+932,France,Developing
+933,France,Developing
+934,France,Developing
+935,France,Developing
+936,France,Developing
+937,France,Developing
+938,France,Developing
+939,France,Developing
+940,France,Developing
+941,France,Developing
+942,France,Developing
+943,France,Developing
+944,France,Developing
+945,France,Developing
+946,France,Developing
+947,Gabon,Developing
+948,Gabon,Developing
+949,Gabon,Developing
+950,Gabon,Developing
+951,Gabon,Developing
+952,Gabon,Developing
+953,Gabon,Developing
+954,Gabon,Developing
+955,Gabon,Developing
+956,Gabon,Developing
+957,Gabon,Developing
+958,Gabon,Developing
+959,Gabon,Developing
+960,Gabon,Developing
+961,Gabon,Developing
+962,Gabon,Developing
+963,Gambia,Developing
+964,Gambia,Developing
+965,Gambia,Developing
+966,Gambia,Developing
+967,Gambia,Developing
+968,Gambia,Developing
+969,Gambia,Developing
+970,Gambia,Developing
+971,Gambia,Developing
+972,Gambia,Developing
+973,Gambia,Developing
+974,Gambia,Developing
+975,Gambia,Developing
+976,Gambia,Developing
+977,Gambia,Developing
+978,Gambia,Developing
+979,Georgia,Developing
+980,Georgia,Developing
+981,Georgia,Developing
+982,Georgia,Developing
+983,Georgia,Developing
+984,Georgia,Developing
+985,Georgia,Developing
+986,Georgia,Developing
+987,Georgia,Developing
+988,Georgia,Developing
+989,Georgia,Developing
+990,Georgia,Developing
+991,Georgia,Developing
+992,Georgia,Developing
+993,Georgia,Developing
+994,Georgia,Developing
+995,Germany,Developed
+996,Germany,Developed
+997,Germany,Developed
+998,Germany,Developed
+999,Germany,Developed
+1000,Germany,Developed
+1001,Germany,Developed
+1002,Germany,Developed
+1003,Germany,Developed
+1004,Germany,Developed
+1005,Germany,Developed
+1006,Germany,Developed
+1007,Germany,Developed
+1008,Germany,Developed
+1009,Germany,Developed
+1010,Germany,Developed
+1011,Ghana,Developing
+1012,Ghana,Developing
+1013,Ghana,Developing
+1014,Ghana,Developing
+1015,Ghana,Developing
+1016,Ghana,Developing
+1017,Ghana,Developing
+1018,Ghana,Developing
+1019,Ghana,Developing
+1020,Ghana,Developing
+1021,Ghana,Developing
+1022,Ghana,Developing
+1023,Ghana,Developing
+1024,Ghana,Developing
+1025,Ghana,Developing
+1026,Ghana,Developing
+1027,Greece,Developing
+1028,Greece,Developing
+1029,Greece,Developing
+1030,Greece,Developing
+1031,Greece,Developing
+1032,Greece,Developing
+1033,Greece,Developing
+1034,Greece,Developing
+1035,Greece,Developing
+1036,Greece,Developing
+1037,Greece,Developing
+1038,Greece,Developing
+1039,Greece,Developing
+1040,Greece,Developing
+1041,Greece,Developing
+1042,Greece,Developing
+1043,Grenada,Developing
+1044,Grenada,Developing
+1045,Grenada,Developing
+1046,Grenada,Developing
+1047,Grenada,Developing
+1048,Grenada,Developing
+1049,Grenada,Developing
+1050,Grenada,Developing
+1051,Grenada,Developing
+1052,Grenada,Developing
+1053,Grenada,Developing
+1054,Grenada,Developing
+1055,Grenada,Developing
+1056,Grenada,Developing
+1057,Grenada,Developing
+1058,Grenada,Developing
+1059,Guatemala,Developing
+1060,Guatemala,Developing
+1061,Guatemala,Developing
+1062,Guatemala,Developing
+1063,Guatemala,Developing
+1064,Guatemala,Developing
+1065,Guatemala,Developing
+1066,Guatemala,Developing
+1067,Guatemala,Developing
+1068,Guatemala,Developing
+1069,Guatemala,Developing
+1070,Guatemala,Developing
+1071,Guatemala,Developing
+1072,Guatemala,Developing
+1073,Guatemala,Developing
+1074,Guatemala,Developing
+1075,Guinea,Developing
+1076,Guinea,Developing
+1077,Guinea,Developing
+1078,Guinea,Developing
+1079,Guinea,Developing
+1080,Guinea,Developing
+1081,Guinea,Developing
+1082,Guinea,Developing
+1083,Guinea,Developing
+1084,Guinea,Developing
+1085,Guinea,Developing
+1086,Guinea,Developing
+1087,Guinea,Developing
+1088,Guinea,Developing
+1089,Guinea,Developing
+1090,Guinea,Developing
+1091,Guinea-Bissau,Developing
+1092,Guinea-Bissau,Developing
+1093,Guinea-Bissau,Developing
+1094,Guinea-Bissau,Developing
+1095,Guinea-Bissau,Developing
+1096,Guinea-Bissau,Developing
+1097,Guinea-Bissau,Developing
+1098,Guinea-Bissau,Developing
+1099,Guinea-Bissau,Developing
+1100,Guinea-Bissau,Developing
+1101,Guinea-Bissau,Developing
+1102,Guinea-Bissau,Developing
+1103,Guinea-Bissau,Developing
+1104,Guinea-Bissau,Developing
+1105,Guinea-Bissau,Developing
+1106,Guinea-Bissau,Developing
+1107,Guyana,Developing
+1108,Guyana,Developing
+1109,Guyana,Developing
+1110,Guyana,Developing
+1111,Guyana,Developing
+1112,Guyana,Developing
+1113,Guyana,Developing
+1114,Guyana,Developing
+1115,Guyana,Developing
+1116,Guyana,Developing
+1117,Guyana,Developing
+1118,Guyana,Developing
+1119,Guyana,Developing
+1120,Guyana,Developing
+1121,Guyana,Developing
+1122,Guyana,Developing
+1123,Haiti,Developing
+1124,Haiti,Developing
+1125,Haiti,Developing
+1126,Haiti,Developing
+1127,Haiti,Developing
+1128,Haiti,Developing
+1129,Haiti,Developing
+1130,Haiti,Developing
+1131,Haiti,Developing
+1132,Haiti,Developing
+1133,Haiti,Developing
+1134,Haiti,Developing
+1135,Haiti,Developing
+1136,Haiti,Developing
+1137,Haiti,Developing
+1138,Haiti,Developing
+1139,Honduras,Developing
+1140,Honduras,Developing
+1141,Honduras,Developing
+1142,Honduras,Developing
+1143,Honduras,Developing
+1144,Honduras,Developing
+1145,Honduras,Developing
+1146,Honduras,Developing
+1147,Honduras,Developing
+1148,Honduras,Developing
+1149,Honduras,Developing
+1150,Honduras,Developing
+1151,Honduras,Developing
+1152,Honduras,Developing
+1153,Honduras,Developing
+1154,Honduras,Developing
+1155,Hungary,Developed
+1156,Hungary,Developed
+1157,Hungary,Developed
+1158,Hungary,Developed
+1159,Hungary,Developed
+1160,Hungary,Developed
+1161,Hungary,Developed
+1162,Hungary,Developed
+1163,Hungary,Developed
+1164,Hungary,Developed
+1165,Hungary,Developed
+1166,Hungary,Developed
+1167,Hungary,Developed
+1168,Hungary,Developed
+1169,Hungary,Developed
+1170,Hungary,Developed
+1171,Iceland,Developed
+1172,Iceland,Developed
+1173,Iceland,Developed
+1174,Iceland,Developed
+1175,Iceland,Developed
+1176,Iceland,Developed
+1177,Iceland,Developed
+1178,Iceland,Developed
+1179,Iceland,Developed
+1180,Iceland,Developed
+1181,Iceland,Developed
+1182,Iceland,Developed
+1183,Iceland,Developed
+1184,Iceland,Developed
+1185,Iceland,Developed
+1186,Iceland,Developed
+1187,India,Developing
+1188,India,Developing
+1189,India,Developing
+1190,India,Developing
+1191,India,Developing
+1192,India,Developing
+1193,India,Developing
+1194,India,Developing
+1195,India,Developing
+1196,India,Developing
+1197,India,Developing
+1198,India,Developing
+1199,India,Developing
+1200,India,Developing
+1201,India,Developing
+1202,India,Developing
+1203,Indonesia,Developing
+1204,Indonesia,Developing
+1205,Indonesia,Developing
+1206,Indonesia,Developing
+1207,Indonesia,Developing
+1208,Indonesia,Developing
+1209,Indonesia,Developing
+1210,Indonesia,Developing
+1211,Indonesia,Developing
+1212,Indonesia,Developing
+1213,Indonesia,Developing
+1214,Indonesia,Developing
+1215,Indonesia,Developing
+1216,Indonesia,Developing
+1217,Indonesia,Developing
+1218,Indonesia,Developing
+1219,Iran (Islamic Republic of),Developing
+1220,Iran (Islamic Republic of),Developing
+1221,Iran (Islamic Republic of),Developing
+1222,Iran (Islamic Republic of),Developing
+1223,Iran (Islamic Republic of),Developing
+1224,Iran (Islamic Republic of),Developing
+1225,Iran (Islamic Republic of),Developing
+1226,Iran (Islamic Republic of),Developing
+1227,Iran (Islamic Republic of),Developing
+1228,Iran (Islamic Republic of),Developing
+1229,Iran (Islamic Republic of),Developing
+1230,Iran (Islamic Republic of),Developing
+1231,Iran (Islamic Republic of),Developing
+1232,Iran (Islamic Republic of),Developing
+1233,Iran (Islamic Republic of),Developing
+1234,Iran (Islamic Republic of),Developing
+1235,Iraq,Developing
+1236,Iraq,Developing
+1237,Iraq,Developing
+1238,Iraq,Developing
+1239,Iraq,Developing
+1240,Iraq,Developing
+1241,Iraq,Developing
+1242,Iraq,Developing
+1243,Iraq,Developing
+1244,Iraq,Developing
+1245,Iraq,Developing
+1246,Iraq,Developing
+1247,Iraq,Developing
+1248,Iraq,Developing
+1249,Iraq,Developing
+1250,Iraq,Developing
+1251,Ireland,Developed
+1252,Ireland,Developed
+1253,Ireland,Developed
+1254,Ireland,Developed
+1255,Ireland,Developed
+1256,Ireland,Developed
+1257,Ireland,Developed
+1258,Ireland,Developed
+1259,Ireland,Developed
+1260,Ireland,Developed
+1261,Ireland,Developed
+1262,Ireland,Developed
+1263,Ireland,Developed
+1264,Ireland,Developed
+1265,Ireland,Developed
+1266,Ireland,Developed
+1267,Israel,Developing
+1268,Israel,Developing
+1269,Israel,Developing
+1270,Israel,Developing
+1271,Israel,Developing
+1272,Israel,Developing
+1273,Israel,Developing
+1274,Israel,Developing
+1275,Israel,Developing
+1276,Israel,Developing
+1277,Israel,Developing
+1278,Israel,Developing
+1279,Israel,Developing
+1280,Israel,Developing
+1281,Israel,Developing
+1282,Israel,Developing
+1283,Italy,Developed
+1284,Italy,Developed
+1285,Italy,Developed
+1286,Italy,Developed
+1287,Italy,Developed
+1288,Italy,Developed
+1289,Italy,Developed
+1290,Italy,Developed
+1291,Italy,Developed
+1292,Italy,Developed
+1293,Italy,Developed
+1294,Italy,Developed
+1295,Italy,Developed
+1296,Italy,Developed
+1297,Italy,Developed
+1298,Italy,Developed
+1299,Jamaica,Developing
+1300,Jamaica,Developing
+1301,Jamaica,Developing
+1302,Jamaica,Developing
+1303,Jamaica,Developing
+1304,Jamaica,Developing
+1305,Jamaica,Developing
+1306,Jamaica,Developing
+1307,Jamaica,Developing
+1308,Jamaica,Developing
+1309,Jamaica,Developing
+1310,Jamaica,Developing
+1311,Jamaica,Developing
+1312,Jamaica,Developing
+1313,Jamaica,Developing
+1314,Jamaica,Developing
+1315,Japan,Developed
+1316,Japan,Developed
+1317,Japan,Developed
+1318,Japan,Developed
+1319,Japan,Developed
+1320,Japan,Developed
+1321,Japan,Developed
+1322,Japan,Developed
+1323,Japan,Developed
+1324,Japan,Developed
+1325,Japan,Developed
+1326,Japan,Developed
+1327,Japan,Developed
+1328,Japan,Developed
+1329,Japan,Developed
+1330,Japan,Developed
+1331,Jordan,Developing
+1332,Jordan,Developing
+1333,Jordan,Developing
+1334,Jordan,Developing
+1335,Jordan,Developing
+1336,Jordan,Developing
+1337,Jordan,Developing
+1338,Jordan,Developing
+1339,Jordan,Developing
+1340,Jordan,Developing
+1341,Jordan,Developing
+1342,Jordan,Developing
+1343,Jordan,Developing
+1344,Jordan,Developing
+1345,Jordan,Developing
+1346,Jordan,Developing
+1347,Kazakhstan,Developing
+1348,Kazakhstan,Developing
+1349,Kazakhstan,Developing
+1350,Kazakhstan,Developing
+1351,Kazakhstan,Developing
+1352,Kazakhstan,Developing
+1353,Kazakhstan,Developing
+1354,Kazakhstan,Developing
+1355,Kazakhstan,Developing
+1356,Kazakhstan,Developing
+1357,Kazakhstan,Developing
+1358,Kazakhstan,Developing
+1359,Kazakhstan,Developing
+1360,Kazakhstan,Developing
+1361,Kazakhstan,Developing
+1362,Kazakhstan,Developing
+1363,Kenya,Developing
+1364,Kenya,Developing
+1365,Kenya,Developing
+1366,Kenya,Developing
+1367,Kenya,Developing
+1368,Kenya,Developing
+1369,Kenya,Developing
+1370,Kenya,Developing
+1371,Kenya,Developing
+1372,Kenya,Developing
+1373,Kenya,Developing
+1374,Kenya,Developing
+1375,Kenya,Developing
+1376,Kenya,Developing
+1377,Kenya,Developing
+1378,Kenya,Developing
+1379,Kiribati,Developing
+1380,Kiribati,Developing
+1381,Kiribati,Developing
+1382,Kiribati,Developing
+1383,Kiribati,Developing
+1384,Kiribati,Developing
+1385,Kiribati,Developing
+1386,Kiribati,Developing
+1387,Kiribati,Developing
+1388,Kiribati,Developing
+1389,Kiribati,Developing
+1390,Kiribati,Developing
+1391,Kiribati,Developing
+1392,Kiribati,Developing
+1393,Kiribati,Developing
+1394,Kiribati,Developing
+1395,Kuwait,Developing
+1396,Kuwait,Developing
+1397,Kuwait,Developing
+1398,Kuwait,Developing
+1399,Kuwait,Developing
+1400,Kuwait,Developing
+1401,Kuwait,Developing
+1402,Kuwait,Developing
+1403,Kuwait,Developing
+1404,Kuwait,Developing
+1405,Kuwait,Developing
+1406,Kuwait,Developing
+1407,Kuwait,Developing
+1408,Kuwait,Developing
+1409,Kuwait,Developing
+1410,Kuwait,Developing
+1411,Kyrgyzstan,Developing
+1412,Kyrgyzstan,Developing
+1413,Kyrgyzstan,Developing
+1414,Kyrgyzstan,Developing
+1415,Kyrgyzstan,Developing
+1416,Kyrgyzstan,Developing
+1417,Kyrgyzstan,Developing
+1418,Kyrgyzstan,Developing
+1419,Kyrgyzstan,Developing
+1420,Kyrgyzstan,Developing
+1421,Kyrgyzstan,Developing
+1422,Kyrgyzstan,Developing
+1423,Kyrgyzstan,Developing
+1424,Kyrgyzstan,Developing
+1425,Kyrgyzstan,Developing
+1426,Kyrgyzstan,Developing
+1427,Lao People's Democratic Republic,Developing
+1428,Lao People's Democratic Republic,Developing
+1429,Lao People's Democratic Republic,Developing
+1430,Lao People's Democratic Republic,Developing
+1431,Lao People's Democratic Republic,Developing
+1432,Lao People's Democratic Republic,Developing
+1433,Lao People's Democratic Republic,Developing
+1434,Lao People's Democratic Republic,Developing
+1435,Lao People's Democratic Republic,Developing
+1436,Lao People's Democratic Republic,Developing
+1437,Lao People's Democratic Republic,Developing
+1438,Lao People's Democratic Republic,Developing
+1439,Lao People's Democratic Republic,Developing
+1440,Lao People's Democratic Republic,Developing
+1441,Lao People's Democratic Republic,Developing
+1442,Lao People's Democratic Republic,Developing
+1443,Latvia,Developed
+1444,Latvia,Developed
+1445,Latvia,Developed
+1446,Latvia,Developed
+1447,Latvia,Developed
+1448,Latvia,Developed
+1449,Latvia,Developed
+1450,Latvia,Developed
+1451,Latvia,Developed
+1452,Latvia,Developed
+1453,Latvia,Developed
+1454,Latvia,Developed
+1455,Latvia,Developed
+1456,Latvia,Developed
+1457,Latvia,Developed
+1458,Latvia,Developed
+1459,Lebanon,Developing
+1460,Lebanon,Developing
+1461,Lebanon,Developing
+1462,Lebanon,Developing
+1463,Lebanon,Developing
+1464,Lebanon,Developing
+1465,Lebanon,Developing
+1466,Lebanon,Developing
+1467,Lebanon,Developing
+1468,Lebanon,Developing
+1469,Lebanon,Developing
+1470,Lebanon,Developing
+1471,Lebanon,Developing
+1472,Lebanon,Developing
+1473,Lebanon,Developing
+1474,Lebanon,Developing
+1475,Lesotho,Developing
+1476,Lesotho,Developing
+1477,Lesotho,Developing
+1478,Lesotho,Developing
+1479,Lesotho,Developing
+1480,Lesotho,Developing
+1481,Lesotho,Developing
+1482,Lesotho,Developing
+1483,Lesotho,Developing
+1484,Lesotho,Developing
+1485,Lesotho,Developing
+1486,Lesotho,Developing
+1487,Lesotho,Developing
+1488,Lesotho,Developing
+1489,Lesotho,Developing
+1490,Lesotho,Developing
+1491,Liberia,Developing
+1492,Liberia,Developing
+1493,Liberia,Developing
+1494,Liberia,Developing
+1495,Liberia,Developing
+1496,Liberia,Developing
+1497,Liberia,Developing
+1498,Liberia,Developing
+1499,Liberia,Developing
+1500,Liberia,Developing
+1501,Liberia,Developing
+1502,Liberia,Developing
+1503,Liberia,Developing
+1504,Liberia,Developing
+1505,Liberia,Developing
+1506,Liberia,Developing
+1507,Libya,Developing
+1508,Libya,Developing
+1509,Libya,Developing
+1510,Libya,Developing
+1511,Libya,Developing
+1512,Libya,Developing
+1513,Libya,Developing
+1514,Libya,Developing
+1515,Libya,Developing
+1516,Libya,Developing
+1517,Libya,Developing
+1518,Libya,Developing
+1519,Libya,Developing
+1520,Libya,Developing
+1521,Libya,Developing
+1522,Libya,Developing
+1523,Lithuania,Developed
+1524,Lithuania,Developed
+1525,Lithuania,Developed
+1526,Lithuania,Developed
+1527,Lithuania,Developed
+1528,Lithuania,Developed
+1529,Lithuania,Developed
+1530,Lithuania,Developed
+1531,Lithuania,Developed
+1532,Lithuania,Developed
+1533,Lithuania,Developed
+1534,Lithuania,Developed
+1535,Lithuania,Developed
+1536,Lithuania,Developed
+1537,Lithuania,Developed
+1538,Lithuania,Developed
+1539,Luxembourg,Developed
+1540,Luxembourg,Developed
+1541,Luxembourg,Developed
+1542,Luxembourg,Developed
+1543,Luxembourg,Developed
+1544,Luxembourg,Developed
+1545,Luxembourg,Developed
+1546,Luxembourg,Developed
+1547,Luxembourg,Developed
+1548,Luxembourg,Developed
+1549,Luxembourg,Developed
+1550,Luxembourg,Developed
+1551,Luxembourg,Developed
+1552,Luxembourg,Developed
+1553,Luxembourg,Developed
+1554,Luxembourg,Developed
+1555,Madagascar,Developing
+1556,Madagascar,Developing
+1557,Madagascar,Developing
+1558,Madagascar,Developing
+1559,Madagascar,Developing
+1560,Madagascar,Developing
+1561,Madagascar,Developing
+1562,Madagascar,Developing
+1563,Madagascar,Developing
+1564,Madagascar,Developing
+1565,Madagascar,Developing
+1566,Madagascar,Developing
+1567,Madagascar,Developing
+1568,Madagascar,Developing
+1569,Madagascar,Developing
+1570,Madagascar,Developing
+1571,Malawi,Developing
+1572,Malawi,Developing
+1573,Malawi,Developing
+1574,Malawi,Developing
+1575,Malawi,Developing
+1576,Malawi,Developing
+1577,Malawi,Developing
+1578,Malawi,Developing
+1579,Malawi,Developing
+1580,Malawi,Developing
+1581,Malawi,Developing
+1582,Malawi,Developing
+1583,Malawi,Developing
+1584,Malawi,Developing
+1585,Malawi,Developing
+1586,Malawi,Developing
+1587,Malaysia,Developing
+1588,Malaysia,Developing
+1589,Malaysia,Developing
+1590,Malaysia,Developing
+1591,Malaysia,Developing
+1592,Malaysia,Developing
+1593,Malaysia,Developing
+1594,Malaysia,Developing
+1595,Malaysia,Developing
+1596,Malaysia,Developing
+1597,Malaysia,Developing
+1598,Malaysia,Developing
+1599,Malaysia,Developing
+1600,Malaysia,Developing
+1601,Malaysia,Developing
+1602,Malaysia,Developing
+1603,Maldives,Developing
+1604,Maldives,Developing
+1605,Maldives,Developing
+1606,Maldives,Developing
+1607,Maldives,Developing
+1608,Maldives,Developing
+1609,Maldives,Developing
+1610,Maldives,Developing
+1611,Maldives,Developing
+1612,Maldives,Developing
+1613,Maldives,Developing
+1614,Maldives,Developing
+1615,Maldives,Developing
+1616,Maldives,Developing
+1617,Maldives,Developing
+1618,Maldives,Developing
+1619,Mali,Developing
+1620,Mali,Developing
+1621,Mali,Developing
+1622,Mali,Developing
+1623,Mali,Developing
+1624,Mali,Developing
+1625,Mali,Developing
+1626,Mali,Developing
+1627,Mali,Developing
+1628,Mali,Developing
+1629,Mali,Developing
+1630,Mali,Developing
+1631,Mali,Developing
+1632,Mali,Developing
+1633,Mali,Developing
+1634,Mali,Developing
+1635,Malta,Developed
+1636,Malta,Developed
+1637,Malta,Developed
+1638,Malta,Developed
+1639,Malta,Developed
+1640,Malta,Developed
+1641,Malta,Developed
+1642,Malta,Developed
+1643,Malta,Developed
+1644,Malta,Developed
+1645,Malta,Developed
+1646,Malta,Developed
+1647,Malta,Developed
+1648,Malta,Developed
+1649,Malta,Developed
+1650,Malta,Developed
+1651,Marshall Islands,Developing
+1652,Mauritania,Developing
+1653,Mauritania,Developing
+1654,Mauritania,Developing
+1655,Mauritania,Developing
+1656,Mauritania,Developing
+1657,Mauritania,Developing
+1658,Mauritania,Developing
+1659,Mauritania,Developing
+1660,Mauritania,Developing
+1661,Mauritania,Developing
+1662,Mauritania,Developing
+1663,Mauritania,Developing
+1664,Mauritania,Developing
+1665,Mauritania,Developing
+1666,Mauritania,Developing
+1667,Mauritania,Developing
+1668,Mauritius,Developing
+1669,Mauritius,Developing
+1670,Mauritius,Developing
+1671,Mauritius,Developing
+1672,Mauritius,Developing
+1673,Mauritius,Developing
+1674,Mauritius,Developing
+1675,Mauritius,Developing
+1676,Mauritius,Developing
+1677,Mauritius,Developing
+1678,Mauritius,Developing
+1679,Mauritius,Developing
+1680,Mauritius,Developing
+1681,Mauritius,Developing
+1682,Mauritius,Developing
+1683,Mauritius,Developing
+1684,Mexico,Developing
+1685,Mexico,Developing
+1686,Mexico,Developing
+1687,Mexico,Developing
+1688,Mexico,Developing
+1689,Mexico,Developing
+1690,Mexico,Developing
+1691,Mexico,Developing
+1692,Mexico,Developing
+1693,Mexico,Developing
+1694,Mexico,Developing
+1695,Mexico,Developing
+1696,Mexico,Developing
+1697,Mexico,Developing
+1698,Mexico,Developing
+1699,Mexico,Developing
+1700,Micronesia (Federated States of),Developing
+1701,Micronesia (Federated States of),Developing
+1702,Micronesia (Federated States of),Developing
+1703,Micronesia (Federated States of),Developing
+1704,Micronesia (Federated States of),Developing
+1705,Micronesia (Federated States of),Developing
+1706,Micronesia (Federated States of),Developing
+1707,Micronesia (Federated States of),Developing
+1708,Micronesia (Federated States of),Developing
+1709,Micronesia (Federated States of),Developing
+1710,Micronesia (Federated States of),Developing
+1711,Micronesia (Federated States of),Developing
+1712,Micronesia (Federated States of),Developing
+1713,Micronesia (Federated States of),Developing
+1714,Micronesia (Federated States of),Developing
+1715,Micronesia (Federated States of),Developing
+1716,Monaco,Developing
+1717,Mongolia,Developing
+1718,Mongolia,Developing
+1719,Mongolia,Developing
+1720,Mongolia,Developing
+1721,Mongolia,Developing
+1722,Mongolia,Developing
+1723,Mongolia,Developing
+1724,Mongolia,Developing
+1725,Mongolia,Developing
+1726,Mongolia,Developing
+1727,Mongolia,Developing
+1728,Mongolia,Developing
+1729,Mongolia,Developing
+1730,Mongolia,Developing
+1731,Mongolia,Developing
+1732,Mongolia,Developing
+1733,Montenegro,Developing
+1734,Montenegro,Developing
+1735,Montenegro,Developing
+1736,Montenegro,Developing
+1737,Montenegro,Developing
+1738,Montenegro,Developing
+1739,Montenegro,Developing
+1740,Montenegro,Developing
+1741,Montenegro,Developing
+1742,Montenegro,Developing
+1743,Montenegro,Developing
+1744,Montenegro,Developing
+1745,Montenegro,Developing
+1746,Montenegro,Developing
+1747,Montenegro,Developing
+1748,Montenegro,Developing
+1749,Morocco,Developing
+1750,Morocco,Developing
+1751,Morocco,Developing
+1752,Morocco,Developing
+1753,Morocco,Developing
+1754,Morocco,Developing
+1755,Morocco,Developing
+1756,Morocco,Developing
+1757,Morocco,Developing
+1758,Morocco,Developing
+1759,Morocco,Developing
+1760,Morocco,Developing
+1761,Morocco,Developing
+1762,Morocco,Developing
+1763,Morocco,Developing
+1764,Morocco,Developing
+1765,Mozambique,Developing
+1766,Mozambique,Developing
+1767,Mozambique,Developing
+1768,Mozambique,Developing
+1769,Mozambique,Developing
+1770,Mozambique,Developing
+1771,Mozambique,Developing
+1772,Mozambique,Developing
+1773,Mozambique,Developing
+1774,Mozambique,Developing
+1775,Mozambique,Developing
+1776,Mozambique,Developing
+1777,Mozambique,Developing
+1778,Mozambique,Developing
+1779,Mozambique,Developing
+1780,Mozambique,Developing
+1781,Myanmar,Developing
+1782,Myanmar,Developing
+1783,Myanmar,Developing
+1784,Myanmar,Developing
+1785,Myanmar,Developing
+1786,Myanmar,Developing
+1787,Myanmar,Developing
+1788,Myanmar,Developing
+1789,Myanmar,Developing
+1790,Myanmar,Developing
+1791,Myanmar,Developing
+1792,Myanmar,Developing
+1793,Myanmar,Developing
+1794,Myanmar,Developing
+1795,Myanmar,Developing
+1796,Myanmar,Developing
+1797,Namibia,Developing
+1798,Namibia,Developing
+1799,Namibia,Developing
+1800,Namibia,Developing
+1801,Namibia,Developing
+1802,Namibia,Developing
+1803,Namibia,Developing
+1804,Namibia,Developing
+1805,Namibia,Developing
+1806,Namibia,Developing
+1807,Namibia,Developing
+1808,Namibia,Developing
+1809,Namibia,Developing
+1810,Namibia,Developing
+1811,Namibia,Developing
+1812,Namibia,Developing
+1813,Nauru,Developing
+1814,Nepal,Developing
+1815,Nepal,Developing
+1816,Nepal,Developing
+1817,Nepal,Developing
+1818,Nepal,Developing
+1819,Nepal,Developing
+1820,Nepal,Developing
+1821,Nepal,Developing
+1822,Nepal,Developing
+1823,Nepal,Developing
+1824,Nepal,Developing
+1825,Nepal,Developing
+1826,Nepal,Developing
+1827,Nepal,Developing
+1828,Nepal,Developing
+1829,Nepal,Developing
+1830,Netherlands,Developed
+1831,Netherlands,Developed
+1832,Netherlands,Developed
+1833,Netherlands,Developed
+1834,Netherlands,Developed
+1835,Netherlands,Developed
+1836,Netherlands,Developed
+1837,Netherlands,Developed
+1838,Netherlands,Developed
+1839,Netherlands,Developed
+1840,Netherlands,Developed
+1841,Netherlands,Developed
+1842,Netherlands,Developed
+1843,Netherlands,Developed
+1844,Netherlands,Developed
+1845,Netherlands,Developed
+1846,New Zealand,Developed
+1847,New Zealand,Developed
+1848,New Zealand,Developed
+1849,New Zealand,Developed
+1850,New Zealand,Developed
+1851,New Zealand,Developed
+1852,New Zealand,Developed
+1853,New Zealand,Developed
+1854,New Zealand,Developed
+1855,New Zealand,Developed
+1856,New Zealand,Developed
+1857,New Zealand,Developed
+1858,New Zealand,Developed
+1859,New Zealand,Developed
+1860,New Zealand,Developed
+1861,New Zealand,Developed
+1862,Nicaragua,Developing
+1863,Nicaragua,Developing
+1864,Nicaragua,Developing
+1865,Nicaragua,Developing
+1866,Nicaragua,Developing
+1867,Nicaragua,Developing
+1868,Nicaragua,Developing
+1869,Nicaragua,Developing
+1870,Nicaragua,Developing
+1871,Nicaragua,Developing
+1872,Nicaragua,Developing
+1873,Nicaragua,Developing
+1874,Nicaragua,Developing
+1875,Nicaragua,Developing
+1876,Nicaragua,Developing
+1877,Nicaragua,Developing
+1878,Niger,Developing
+1879,Niger,Developing
+1880,Niger,Developing
+1881,Niger,Developing
+1882,Niger,Developing
+1883,Niger,Developing
+1884,Niger,Developing
+1885,Niger,Developing
+1886,Niger,Developing
+1887,Niger,Developing
+1888,Niger,Developing
+1889,Niger,Developing
+1890,Niger,Developing
+1891,Niger,Developing
+1892,Niger,Developing
+1893,Niger,Developing
+1894,Nigeria,Developing
+1895,Nigeria,Developing
+1896,Nigeria,Developing
+1897,Nigeria,Developing
+1898,Nigeria,Developing
+1899,Nigeria,Developing
+1900,Nigeria,Developing
+1901,Nigeria,Developing
+1902,Nigeria,Developing
+1903,Nigeria,Developing
+1904,Nigeria,Developing
+1905,Nigeria,Developing
+1906,Nigeria,Developing
+1907,Nigeria,Developing
+1908,Nigeria,Developing
+1909,Nigeria,Developing
+1910,Niue,Developing
+1911,Norway,Developed
+1912,Norway,Developed
+1913,Norway,Developed
+1914,Norway,Developed
+1915,Norway,Developed
+1916,Norway,Developed
+1917,Norway,Developed
+1918,Norway,Developed
+1919,Norway,Developed
+1920,Norway,Developed
+1921,Norway,Developed
+1922,Norway,Developed
+1923,Norway,Developed
+1924,Norway,Developed
+1925,Norway,Developed
+1926,Norway,Developed
+1927,Oman,Developing
+1928,Oman,Developing
+1929,Oman,Developing
+1930,Oman,Developing
+1931,Oman,Developing
+1932,Oman,Developing
+1933,Oman,Developing
+1934,Oman,Developing
+1935,Oman,Developing
+1936,Oman,Developing
+1937,Oman,Developing
+1938,Oman,Developing
+1939,Oman,Developing
+1940,Oman,Developing
+1941,Oman,Developing
+1942,Oman,Developing
+1943,Pakistan,Developing
+1944,Pakistan,Developing
+1945,Pakistan,Developing
+1946,Pakistan,Developing
+1947,Pakistan,Developing
+1948,Pakistan,Developing
+1949,Pakistan,Developing
+1950,Pakistan,Developing
+1951,Pakistan,Developing
+1952,Pakistan,Developing
+1953,Pakistan,Developing
+1954,Pakistan,Developing
+1955,Pakistan,Developing
+1956,Pakistan,Developing
+1957,Pakistan,Developing
+1958,Pakistan,Developing
+1959,Palau,Developing
+1960,Panama,Developing
+1961,Panama,Developing
+1962,Panama,Developing
+1963,Panama,Developing
+1964,Panama,Developing
+1965,Panama,Developing
+1966,Panama,Developing
+1967,Panama,Developing
+1968,Panama,Developing
+1969,Panama,Developing
+1970,Panama,Developing
+1971,Panama,Developing
+1972,Panama,Developing
+1973,Panama,Developing
+1974,Panama,Developing
+1975,Panama,Developing
+1976,Papua New Guinea,Developing
+1977,Papua New Guinea,Developing
+1978,Papua New Guinea,Developing
+1979,Papua New Guinea,Developing
+1980,Papua New Guinea,Developing
+1981,Papua New Guinea,Developing
+1982,Papua New Guinea,Developing
+1983,Papua New Guinea,Developing
+1984,Papua New Guinea,Developing
+1985,Papua New Guinea,Developing
+1986,Papua New Guinea,Developing
+1987,Papua New Guinea,Developing
+1988,Papua New Guinea,Developing
+1989,Papua New Guinea,Developing
+1990,Papua New Guinea,Developing
+1991,Papua New Guinea,Developing
+1992,Paraguay,Developing
+1993,Paraguay,Developing
+1994,Paraguay,Developing
+1995,Paraguay,Developing
+1996,Paraguay,Developing
+1997,Paraguay,Developing
+1998,Paraguay,Developing
+1999,Paraguay,Developing
+2000,Paraguay,Developing
+2001,Paraguay,Developing
+2002,Paraguay,Developing
+2003,Paraguay,Developing
+2004,Paraguay,Developing
+2005,Paraguay,Developing
+2006,Paraguay,Developing
+2007,Paraguay,Developing
+2008,Peru,Developing
+2009,Peru,Developing
+2010,Peru,Developing
+2011,Peru,Developing
+2012,Peru,Developing
+2013,Peru,Developing
+2014,Peru,Developing
+2015,Peru,Developing
+2016,Peru,Developing
+2017,Peru,Developing
+2018,Peru,Developing
+2019,Peru,Developing
+2020,Peru,Developing
+2021,Peru,Developing
+2022,Peru,Developing
+2023,Peru,Developing
+2024,Philippines,Developing
+2025,Philippines,Developing
+2026,Philippines,Developing
+2027,Philippines,Developing
+2028,Philippines,Developing
+2029,Philippines,Developing
+2030,Philippines,Developing
+2031,Philippines,Developing
+2032,Philippines,Developing
+2033,Philippines,Developing
+2034,Philippines,Developing
+2035,Philippines,Developing
+2036,Philippines,Developing
+2037,Philippines,Developing
+2038,Philippines,Developing
+2039,Philippines,Developing
+2040,Poland,Developed
+2041,Poland,Developed
+2042,Poland,Developed
+2043,Poland,Developed
+2044,Poland,Developed
+2045,Poland,Developed
+2046,Poland,Developed
+2047,Poland,Developed
+2048,Poland,Developed
+2049,Poland,Developed
+2050,Poland,Developed
+2051,Poland,Developed
+2052,Poland,Developed
+2053,Poland,Developed
+2054,Poland,Developed
+2055,Poland,Developed
+2056,Portugal,Developed
+2057,Portugal,Developed
+2058,Portugal,Developed
+2059,Portugal,Developed
+2060,Portugal,Developed
+2061,Portugal,Developed
+2062,Portugal,Developed
+2063,Portugal,Developed
+2064,Portugal,Developed
+2065,Portugal,Developed
+2066,Portugal,Developed
+2067,Portugal,Developed
+2068,Portugal,Developed
+2069,Portugal,Developed
+2070,Portugal,Developed
+2071,Portugal,Developed
+2072,Qatar,Developing
+2073,Qatar,Developing
+2074,Qatar,Developing
+2075,Qatar,Developing
+2076,Qatar,Developing
+2077,Qatar,Developing
+2078,Qatar,Developing
+2079,Qatar,Developing
+2080,Qatar,Developing
+2081,Qatar,Developing
+2082,Qatar,Developing
+2083,Qatar,Developing
+2084,Qatar,Developing
+2085,Qatar,Developing
+2086,Qatar,Developing
+2087,Qatar,Developing
+2088,Republic of Korea,Developing
+2089,Republic of Korea,Developing
+2090,Republic of Korea,Developing
+2091,Republic of Korea,Developing
+2092,Republic of Korea,Developing
+2093,Republic of Korea,Developing
+2094,Republic of Korea,Developing
+2095,Republic of Korea,Developing
+2096,Republic of Korea,Developing
+2097,Republic of Korea,Developing
+2098,Republic of Korea,Developing
+2099,Republic of Korea,Developing
+2100,Republic of Korea,Developing
+2101,Republic of Korea,Developing
+2102,Republic of Korea,Developing
+2103,Republic of Korea,Developing
+2104,Republic of Moldova,Developing
+2105,Republic of Moldova,Developing
+2106,Republic of Moldova,Developing
+2107,Republic of Moldova,Developing
+2108,Republic of Moldova,Developing
+2109,Republic of Moldova,Developing
+2110,Republic of Moldova,Developing
+2111,Republic of Moldova,Developing
+2112,Republic of Moldova,Developing
+2113,Republic of Moldova,Developing
+2114,Republic of Moldova,Developing
+2115,Republic of Moldova,Developing
+2116,Republic of Moldova,Developing
+2117,Republic of Moldova,Developing
+2118,Republic of Moldova,Developing
+2119,Republic of Moldova,Developing
+2120,Romania,Developed
+2121,Romania,Developed
+2122,Romania,Developed
+2123,Romania,Developed
+2124,Romania,Developed
+2125,Romania,Developed
+2126,Romania,Developed
+2127,Romania,Developed
+2128,Romania,Developed
+2129,Romania,Developed
+2130,Romania,Developed
+2131,Romania,Developed
+2132,Romania,Developed
+2133,Romania,Developed
+2134,Romania,Developed
+2135,Romania,Developed
+2136,Russian Federation,Developing
+2137,Russian Federation,Developing
+2138,Russian Federation,Developing
+2139,Russian Federation,Developing
+2140,Russian Federation,Developing
+2141,Russian Federation,Developing
+2142,Russian Federation,Developing
+2143,Russian Federation,Developing
+2144,Russian Federation,Developing
+2145,Russian Federation,Developing
+2146,Russian Federation,Developing
+2147,Russian Federation,Developing
+2148,Russian Federation,Developing
+2149,Russian Federation,Developing
+2150,Russian Federation,Developing
+2151,Russian Federation,Developing
+2152,Rwanda,Developing
+2153,Rwanda,Developing
+2154,Rwanda,Developing
+2155,Rwanda,Developing
+2156,Rwanda,Developing
+2157,Rwanda,Developing
+2158,Rwanda,Developing
+2159,Rwanda,Developing
+2160,Rwanda,Developing
+2161,Rwanda,Developing
+2162,Rwanda,Developing
+2163,Rwanda,Developing
+2164,Rwanda,Developing
+2165,Rwanda,Developing
+2166,Rwanda,Developing
+2167,Rwanda,Developing
+2168,Saint Kitts and Nevis,Developing
+2169,Saint Lucia,Developing
+2170,Saint Lucia,Developing
+2171,Saint Lucia,Developing
+2172,Saint Lucia,Developing
+2173,Saint Lucia,Developing
+2174,Saint Lucia,Developing
+2175,Saint Lucia,Developing
+2176,Saint Lucia,Developing
+2177,Saint Lucia,Developing
+2178,Saint Lucia,Developing
+2179,Saint Lucia,Developing
+2180,Saint Lucia,Developing
+2181,Saint Lucia,Developing
+2182,Saint Lucia,Developing
+2183,Saint Lucia,Developing
+2184,Saint Lucia,Developing
+2185,Saint Vincent and the Grenadines,Developing
+2186,Saint Vincent and the Grenadines,Developing
+2187,Saint Vincent and the Grenadines,Developing
+2188,Saint Vincent and the Grenadines,Developing
+2189,Saint Vincent and the Grenadines,Developing
+2190,Saint Vincent and the Grenadines,Developing
+2191,Saint Vincent and the Grenadines,Developing
+2192,Saint Vincent and the Grenadines,Developing
+2193,Saint Vincent and the Grenadines,Developing
+2194,Saint Vincent and the Grenadines,Developing
+2195,Saint Vincent and the Grenadines,Developing
+2196,Saint Vincent and the Grenadines,Developing
+2197,Saint Vincent and the Grenadines,Developing
+2198,Saint Vincent and the Grenadines,Developing
+2199,Saint Vincent and the Grenadines,Developing
+2200,Saint Vincent and the Grenadines,Developing
+2201,Samoa,Developing
+2202,Samoa,Developing
+2203,Samoa,Developing
+2204,Samoa,Developing
+2205,Samoa,Developing
+2206,Samoa,Developing
+2207,Samoa,Developing
+2208,Samoa,Developing
+2209,Samoa,Developing
+2210,Samoa,Developing
+2211,Samoa,Developing
+2212,Samoa,Developing
+2213,Samoa,Developing
+2214,Samoa,Developing
+2215,Samoa,Developing
+2216,Samoa,Developing
+2217,San Marino,Developing
+2218,Sao Tome and Principe,Developing
+2219,Sao Tome and Principe,Developing
+2220,Sao Tome and Principe,Developing
+2221,Sao Tome and Principe,Developing
+2222,Sao Tome and Principe,Developing
+2223,Sao Tome and Principe,Developing
+2224,Sao Tome and Principe,Developing
+2225,Sao Tome and Principe,Developing
+2226,Sao Tome and Principe,Developing
+2227,Sao Tome and Principe,Developing
+2228,Sao Tome and Principe,Developing
+2229,Sao Tome and Principe,Developing
+2230,Sao Tome and Principe,Developing
+2231,Sao Tome and Principe,Developing
+2232,Sao Tome and Principe,Developing
+2233,Sao Tome and Principe,Developing
+2234,Saudi Arabia,Developing
+2235,Saudi Arabia,Developing
+2236,Saudi Arabia,Developing
+2237,Saudi Arabia,Developing
+2238,Saudi Arabia,Developing
+2239,Saudi Arabia,Developing
+2240,Saudi Arabia,Developing
+2241,Saudi Arabia,Developing
+2242,Saudi Arabia,Developing
+2243,Saudi Arabia,Developing
+2244,Saudi Arabia,Developing
+2245,Saudi Arabia,Developing
+2246,Saudi Arabia,Developing
+2247,Saudi Arabia,Developing
+2248,Saudi Arabia,Developing
+2249,Saudi Arabia,Developing
+2250,Senegal,Developing
+2251,Senegal,Developing
+2252,Senegal,Developing
+2253,Senegal,Developing
+2254,Senegal,Developing
+2255,Senegal,Developing
+2256,Senegal,Developing
+2257,Senegal,Developing
+2258,Senegal,Developing
+2259,Senegal,Developing
+2260,Senegal,Developing
+2261,Senegal,Developing
+2262,Senegal,Developing
+2263,Senegal,Developing
+2264,Senegal,Developing
+2265,Senegal,Developing
+2266,Serbia,Developing
+2267,Serbia,Developing
+2268,Serbia,Developing
+2269,Serbia,Developing
+2270,Serbia,Developing
+2271,Serbia,Developing
+2272,Serbia,Developing
+2273,Serbia,Developing
+2274,Serbia,Developing
+2275,Serbia,Developing
+2276,Serbia,Developing
+2277,Serbia,Developing
+2278,Serbia,Developing
+2279,Serbia,Developing
+2280,Serbia,Developing
+2281,Serbia,Developing
+2282,Seychelles,Developing
+2283,Seychelles,Developing
+2284,Seychelles,Developing
+2285,Seychelles,Developing
+2286,Seychelles,Developing
+2287,Seychelles,Developing
+2288,Seychelles,Developing
+2289,Seychelles,Developing
+2290,Seychelles,Developing
+2291,Seychelles,Developing
+2292,Seychelles,Developing
+2293,Seychelles,Developing
+2294,Seychelles,Developing
+2295,Seychelles,Developing
+2296,Seychelles,Developing
+2297,Seychelles,Developing
+2298,Sierra Leone,Developing
+2299,Sierra Leone,Developing
+2300,Sierra Leone,Developing
+2301,Sierra Leone,Developing
+2302,Sierra Leone,Developing
+2303,Sierra Leone,Developing
+2304,Sierra Leone,Developing
+2305,Sierra Leone,Developing
+2306,Sierra Leone,Developing
+2307,Sierra Leone,Developing
+2308,Sierra Leone,Developing
+2309,Sierra Leone,Developing
+2310,Sierra Leone,Developing
+2311,Sierra Leone,Developing
+2312,Sierra Leone,Developing
+2313,Sierra Leone,Developing
+2314,Singapore,Developed
+2315,Singapore,Developed
+2316,Singapore,Developed
+2317,Singapore,Developed
+2318,Singapore,Developed
+2319,Singapore,Developed
+2320,Singapore,Developed
+2321,Singapore,Developed
+2322,Singapore,Developed
+2323,Singapore,Developed
+2324,Singapore,Developed
+2325,Singapore,Developed
+2326,Singapore,Developed
+2327,Singapore,Developed
+2328,Singapore,Developed
+2329,Singapore,Developed
+2330,Slovakia,Developed
+2331,Slovakia,Developed
+2332,Slovakia,Developed
+2333,Slovakia,Developed
+2334,Slovakia,Developed
+2335,Slovakia,Developed
+2336,Slovakia,Developed
+2337,Slovakia,Developed
+2338,Slovakia,Developed
+2339,Slovakia,Developed
+2340,Slovakia,Developed
+2341,Slovakia,Developed
+2342,Slovakia,Developed
+2343,Slovakia,Developed
+2344,Slovakia,Developed
+2345,Slovakia,Developed
+2346,Slovenia,Developed
+2347,Slovenia,Developed
+2348,Slovenia,Developed
+2349,Slovenia,Developed
+2350,Slovenia,Developed
+2351,Slovenia,Developed
+2352,Slovenia,Developed
+2353,Slovenia,Developed
+2354,Slovenia,Developed
+2355,Slovenia,Developed
+2356,Slovenia,Developed
+2357,Slovenia,Developed
+2358,Slovenia,Developed
+2359,Slovenia,Developed
+2360,Slovenia,Developed
+2361,Slovenia,Developed
+2362,Solomon Islands,Developing
+2363,Solomon Islands,Developing
+2364,Solomon Islands,Developing
+2365,Solomon Islands,Developing
+2366,Solomon Islands,Developing
+2367,Solomon Islands,Developing
+2368,Solomon Islands,Developing
+2369,Solomon Islands,Developing
+2370,Solomon Islands,Developing
+2371,Solomon Islands,Developing
+2372,Solomon Islands,Developing
+2373,Solomon Islands,Developing
+2374,Solomon Islands,Developing
+2375,Solomon Islands,Developing
+2376,Solomon Islands,Developing
+2377,Solomon Islands,Developing
+2378,Somalia,Developing
+2379,Somalia,Developing
+2380,Somalia,Developing
+2381,Somalia,Developing
+2382,Somalia,Developing
+2383,Somalia,Developing
+2384,Somalia,Developing
+2385,Somalia,Developing
+2386,Somalia,Developing
+2387,Somalia,Developing
+2388,Somalia,Developing
+2389,Somalia,Developing
+2390,Somalia,Developing
+2391,Somalia,Developing
+2392,Somalia,Developing
+2393,Somalia,Developing
+2394,South Africa,Developing
+2395,South Africa,Developing
+2396,South Africa,Developing
+2397,South Africa,Developing
+2398,South Africa,Developing
+2399,South Africa,Developing
+2400,South Africa,Developing
+2401,South Africa,Developing
+2402,South Africa,Developing
+2403,South Africa,Developing
+2404,South Africa,Developing
+2405,South Africa,Developing
+2406,South Africa,Developing
+2407,South Africa,Developing
+2408,South Africa,Developing
+2409,South Africa,Developing
+2410,South Sudan,Developing
+2411,South Sudan,Developing
+2412,South Sudan,Developing
+2413,South Sudan,Developing
+2414,South Sudan,Developing
+2415,South Sudan,Developing
+2416,South Sudan,Developing
+2417,South Sudan,Developing
+2418,South Sudan,Developing
+2419,South Sudan,Developing
+2420,South Sudan,Developing
+2421,South Sudan,Developing
+2422,South Sudan,Developing
+2423,South Sudan,Developing
+2424,South Sudan,Developing
+2425,South Sudan,Developing
+2426,Spain,Developed
+2427,Spain,Developed
+2428,Spain,Developed
+2429,Spain,Developed
+2430,Spain,Developed
+2431,Spain,Developed
+2432,Spain,Developed
+2433,Spain,Developed
+2434,Spain,Developed
+2435,Spain,Developed
+2436,Spain,Developed
+2437,Spain,Developed
+2438,Spain,Developed
+2439,Spain,Developed
+2440,Spain,Developed
+2441,Spain,Developed
+2442,Sri Lanka,Developing
+2443,Sri Lanka,Developing
+2444,Sri Lanka,Developing
+2445,Sri Lanka,Developing
+2446,Sri Lanka,Developing
+2447,Sri Lanka,Developing
+2448,Sri Lanka,Developing
+2449,Sri Lanka,Developing
+2450,Sri Lanka,Developing
+2451,Sri Lanka,Developing
+2452,Sri Lanka,Developing
+2453,Sri Lanka,Developing
+2454,Sri Lanka,Developing
+2455,Sri Lanka,Developing
+2456,Sri Lanka,Developing
+2457,Sri Lanka,Developing
+2458,Sudan,Developing
+2459,Sudan,Developing
+2460,Sudan,Developing
+2461,Sudan,Developing
+2462,Sudan,Developing
+2463,Sudan,Developing
+2464,Sudan,Developing
+2465,Sudan,Developing
+2466,Sudan,Developing
+2467,Sudan,Developing
+2468,Sudan,Developing
+2469,Sudan,Developing
+2470,Sudan,Developing
+2471,Sudan,Developing
+2472,Sudan,Developing
+2473,Sudan,Developing
+2474,Suriname,Developing
+2475,Suriname,Developing
+2476,Suriname,Developing
+2477,Suriname,Developing
+2478,Suriname,Developing
+2479,Suriname,Developing
+2480,Suriname,Developing
+2481,Suriname,Developing
+2482,Suriname,Developing
+2483,Suriname,Developing
+2484,Suriname,Developing
+2485,Suriname,Developing
+2486,Suriname,Developing
+2487,Suriname,Developing
+2488,Suriname,Developing
+2489,Suriname,Developing
+2490,Swaziland,Developing
+2491,Swaziland,Developing
+2492,Swaziland,Developing
+2493,Swaziland,Developing
+2494,Swaziland,Developing
+2495,Swaziland,Developing
+2496,Swaziland,Developing
+2497,Swaziland,Developing
+2498,Swaziland,Developing
+2499,Swaziland,Developing
+2500,Swaziland,Developing
+2501,Swaziland,Developing
+2502,Swaziland,Developing
+2503,Swaziland,Developing
+2504,Swaziland,Developing
+2505,Swaziland,Developing
+2506,Sweden,Developed
+2507,Sweden,Developed
+2508,Sweden,Developed
+2509,Sweden,Developed
+2510,Sweden,Developed
+2511,Sweden,Developed
+2512,Sweden,Developed
+2513,Sweden,Developed
+2514,Sweden,Developed
+2515,Sweden,Developed
+2516,Sweden,Developed
+2517,Sweden,Developed
+2518,Sweden,Developed
+2519,Sweden,Developed
+2520,Sweden,Developed
+2521,Sweden,Developed
+2522,Switzerland,Developed
+2523,Switzerland,Developed
+2524,Switzerland,Developed
+2525,Switzerland,Developed
+2526,Switzerland,Developed
+2527,Switzerland,Developed
+2528,Switzerland,Developed
+2529,Switzerland,Developed
+2530,Switzerland,Developed
+2531,Switzerland,Developed
+2532,Switzerland,Developed
+2533,Switzerland,Developed
+2534,Switzerland,Developed
+2535,Switzerland,Developed
+2536,Switzerland,Developed
+2537,Switzerland,Developed
+2538,Syrian Arab Republic,Developing
+2539,Syrian Arab Republic,Developing
+2540,Syrian Arab Republic,Developing
+2541,Syrian Arab Republic,Developing
+2542,Syrian Arab Republic,Developing
+2543,Syrian Arab Republic,Developing
+2544,Syrian Arab Republic,Developing
+2545,Syrian Arab Republic,Developing
+2546,Syrian Arab Republic,Developing
+2547,Syrian Arab Republic,Developing
+2548,Syrian Arab Republic,Developing
+2549,Syrian Arab Republic,Developing
+2550,Syrian Arab Republic,Developing
+2551,Syrian Arab Republic,Developing
+2552,Syrian Arab Republic,Developing
+2553,Syrian Arab Republic,Developing
+2554,Tajikistan,Developing
+2555,Tajikistan,Developing
+2556,Tajikistan,Developing
+2557,Tajikistan,Developing
+2558,Tajikistan,Developing
+2559,Tajikistan,Developing
+2560,Tajikistan,Developing
+2561,Tajikistan,Developing
+2562,Tajikistan,Developing
+2563,Tajikistan,Developing
+2564,Tajikistan,Developing
+2565,Tajikistan,Developing
+2566,Tajikistan,Developing
+2567,Tajikistan,Developing
+2568,Tajikistan,Developing
+2569,Tajikistan,Developing
+2570,Thailand,Developing
+2571,Thailand,Developing
+2572,Thailand,Developing
+2573,Thailand,Developing
+2574,Thailand,Developing
+2575,Thailand,Developing
+2576,Thailand,Developing
+2577,Thailand,Developing
+2578,Thailand,Developing
+2579,Thailand,Developing
+2580,Thailand,Developing
+2581,Thailand,Developing
+2582,Thailand,Developing
+2583,Thailand,Developing
+2584,Thailand,Developing
+2585,Thailand,Developing
+2586,The former Yugoslav republic of Macedonia,Developing
+2587,The former Yugoslav republic of Macedonia,Developing
+2588,The former Yugoslav republic of Macedonia,Developing
+2589,The former Yugoslav republic of Macedonia,Developing
+2590,The former Yugoslav republic of Macedonia,Developing
+2591,The former Yugoslav republic of Macedonia,Developing
+2592,The former Yugoslav republic of Macedonia,Developing
+2593,The former Yugoslav republic of Macedonia,Developing
+2594,The former Yugoslav republic of Macedonia,Developing
+2595,The former Yugoslav republic of Macedonia,Developing
+2596,The former Yugoslav republic of Macedonia,Developing
+2597,The former Yugoslav republic of Macedonia,Developing
+2598,The former Yugoslav republic of Macedonia,Developing
+2599,The former Yugoslav republic of Macedonia,Developing
+2600,The former Yugoslav republic of Macedonia,Developing
+2601,The former Yugoslav republic of Macedonia,Developing
+2602,Timor-Leste,Developing
+2603,Timor-Leste,Developing
+2604,Timor-Leste,Developing
+2605,Timor-Leste,Developing
+2606,Timor-Leste,Developing
+2607,Timor-Leste,Developing
+2608,Timor-Leste,Developing
+2609,Timor-Leste,Developing
+2610,Timor-Leste,Developing
+2611,Timor-Leste,Developing
+2612,Timor-Leste,Developing
+2613,Timor-Leste,Developing
+2614,Timor-Leste,Developing
+2615,Timor-Leste,Developing
+2616,Timor-Leste,Developing
+2617,Timor-Leste,Developing
+2618,Togo,Developing
+2619,Togo,Developing
+2620,Togo,Developing
+2621,Togo,Developing
+2622,Togo,Developing
+2623,Togo,Developing
+2624,Togo,Developing
+2625,Togo,Developing
+2626,Togo,Developing
+2627,Togo,Developing
+2628,Togo,Developing
+2629,Togo,Developing
+2630,Togo,Developing
+2631,Togo,Developing
+2632,Togo,Developing
+2633,Togo,Developing
+2634,Tonga,Developing
+2635,Tonga,Developing
+2636,Tonga,Developing
+2637,Tonga,Developing
+2638,Tonga,Developing
+2639,Tonga,Developing
+2640,Tonga,Developing
+2641,Tonga,Developing
+2642,Tonga,Developing
+2643,Tonga,Developing
+2644,Tonga,Developing
+2645,Tonga,Developing
+2646,Tonga,Developing
+2647,Tonga,Developing
+2648,Tonga,Developing
+2649,Tonga,Developing
+2650,Trinidad and Tobago,Developing
+2651,Trinidad and Tobago,Developing
+2652,Trinidad and Tobago,Developing
+2653,Trinidad and Tobago,Developing
+2654,Trinidad and Tobago,Developing
+2655,Trinidad and Tobago,Developing
+2656,Trinidad and Tobago,Developing
+2657,Trinidad and Tobago,Developing
+2658,Trinidad and Tobago,Developing
+2659,Trinidad and Tobago,Developing
+2660,Trinidad and Tobago,Developing
+2661,Trinidad and Tobago,Developing
+2662,Trinidad and Tobago,Developing
+2663,Trinidad and Tobago,Developing
+2664,Trinidad and Tobago,Developing
+2665,Trinidad and Tobago,Developing
+2666,Tunisia,Developing
+2667,Tunisia,Developing
+2668,Tunisia,Developing
+2669,Tunisia,Developing
+2670,Tunisia,Developing
+2671,Tunisia,Developing
+2672,Tunisia,Developing
+2673,Tunisia,Developing
+2674,Tunisia,Developing
+2675,Tunisia,Developing
+2676,Tunisia,Developing
+2677,Tunisia,Developing
+2678,Tunisia,Developing
+2679,Tunisia,Developing
+2680,Tunisia,Developing
+2681,Tunisia,Developing
+2682,Turkey,Developing
+2683,Turkey,Developing
+2684,Turkey,Developing
+2685,Turkey,Developing
+2686,Turkey,Developing
+2687,Turkey,Developing
+2688,Turkey,Developing
+2689,Turkey,Developing
+2690,Turkey,Developing
+2691,Turkey,Developing
+2692,Turkey,Developing
+2693,Turkey,Developing
+2694,Turkey,Developing
+2695,Turkey,Developing
+2696,Turkey,Developing
+2697,Turkey,Developing
+2698,Turkmenistan,Developing
+2699,Turkmenistan,Developing
+2700,Turkmenistan,Developing
+2701,Turkmenistan,Developing
+2702,Turkmenistan,Developing
+2703,Turkmenistan,Developing
+2704,Turkmenistan,Developing
+2705,Turkmenistan,Developing
+2706,Turkmenistan,Developing
+2707,Turkmenistan,Developing
+2708,Turkmenistan,Developing
+2709,Turkmenistan,Developing
+2710,Turkmenistan,Developing
+2711,Turkmenistan,Developing
+2712,Turkmenistan,Developing
+2713,Turkmenistan,Developing
+2714,Tuvalu,Developing
+2715,Uganda,Developing
+2716,Uganda,Developing
+2717,Uganda,Developing
+2718,Uganda,Developing
+2719,Uganda,Developing
+2720,Uganda,Developing
+2721,Uganda,Developing
+2722,Uganda,Developing
+2723,Uganda,Developing
+2724,Uganda,Developing
+2725,Uganda,Developing
+2726,Uganda,Developing
+2727,Uganda,Developing
+2728,Uganda,Developing
+2729,Uganda,Developing
+2730,Uganda,Developing
+2731,Ukraine,Developing
+2732,Ukraine,Developing
+2733,Ukraine,Developing
+2734,Ukraine,Developing
+2735,Ukraine,Developing
+2736,Ukraine,Developing
+2737,Ukraine,Developing
+2738,Ukraine,Developing
+2739,Ukraine,Developing
+2740,Ukraine,Developing
+2741,Ukraine,Developing
+2742,Ukraine,Developing
+2743,Ukraine,Developing
+2744,Ukraine,Developing
+2745,Ukraine,Developing
+2746,Ukraine,Developing
+2747,United Arab Emirates,Developing
+2748,United Arab Emirates,Developing
+2749,United Arab Emirates,Developing
+2750,United Arab Emirates,Developing
+2751,United Arab Emirates,Developing
+2752,United Arab Emirates,Developing
+2753,United Arab Emirates,Developing
+2754,United Arab Emirates,Developing
+2755,United Arab Emirates,Developing
+2756,United Arab Emirates,Developing
+2757,United Arab Emirates,Developing
+2758,United Arab Emirates,Developing
+2759,United Arab Emirates,Developing
+2760,United Arab Emirates,Developing
+2761,United Arab Emirates,Developing
+2762,United Arab Emirates,Developing
+2763,United Kingdom of Great Britain and Northern Ireland,Developed
+2764,United Kingdom of Great Britain and Northern Ireland,Developed
+2765,United Kingdom of Great Britain and Northern Ireland,Developed
+2766,United Kingdom of Great Britain and Northern Ireland,Developed
+2767,United Kingdom of Great Britain and Northern Ireland,Developed
+2768,United Kingdom of Great Britain and Northern Ireland,Developed
+2769,United Kingdom of Great Britain and Northern Ireland,Developed
+2770,United Kingdom of Great Britain and Northern Ireland,Developed
+2771,United Kingdom of Great Britain and Northern Ireland,Developed
+2772,United Kingdom of Great Britain and Northern Ireland,Developed
+2773,United Kingdom of Great Britain and Northern Ireland,Developed
+2774,United Kingdom of Great Britain and Northern Ireland,Developed
+2775,United Kingdom of Great Britain and Northern Ireland,Developed
+2776,United Kingdom of Great Britain and Northern Ireland,Developed
+2777,United Kingdom of Great Britain and Northern Ireland,Developed
+2778,United Kingdom of Great Britain and Northern Ireland,Developed
+2779,United Republic of Tanzania,Developing
+2780,United Republic of Tanzania,Developing
+2781,United Republic of Tanzania,Developing
+2782,United Republic of Tanzania,Developing
+2783,United Republic of Tanzania,Developing
+2784,United Republic of Tanzania,Developing
+2785,United Republic of Tanzania,Developing
+2786,United Republic of Tanzania,Developing
+2787,United Republic of Tanzania,Developing
+2788,United Republic of Tanzania,Developing
+2789,United Republic of Tanzania,Developing
+2790,United Republic of Tanzania,Developing
+2791,United Republic of Tanzania,Developing
+2792,United Republic of Tanzania,Developing
+2793,United Republic of Tanzania,Developing
+2794,United Republic of Tanzania,Developing
+2795,United States of America,Developed
+2796,United States of America,Developed
+2797,United States of America,Developed
+2798,United States of America,Developed
+2799,United States of America,Developed
+2800,United States of America,Developed
+2801,United States of America,Developed
+2802,United States of America,Developed
+2803,United States of America,Developed
+2804,United States of America,Developed
+2805,United States of America,Developed
+2806,United States of America,Developed
+2807,United States of America,Developed
+2808,United States of America,Developed
+2809,United States of America,Developed
+2810,United States of America,Developed
+2811,Uruguay,Developing
+2812,Uruguay,Developing
+2813,Uruguay,Developing
+2814,Uruguay,Developing
+2815,Uruguay,Developing
+2816,Uruguay,Developing
+2817,Uruguay,Developing
+2818,Uruguay,Developing
+2819,Uruguay,Developing
+2820,Uruguay,Developing
+2821,Uruguay,Developing
+2822,Uruguay,Developing
+2823,Uruguay,Developing
+2824,Uruguay,Developing
+2825,Uruguay,Developing
+2826,Uruguay,Developing
+2827,Uzbekistan,Developing
+2828,Uzbekistan,Developing
+2829,Uzbekistan,Developing
+2830,Uzbekistan,Developing
+2831,Uzbekistan,Developing
+2832,Uzbekistan,Developing
+2833,Uzbekistan,Developing
+2834,Uzbekistan,Developing
+2835,Uzbekistan,Developing
+2836,Uzbekistan,Developing
+2837,Uzbekistan,Developing
+2838,Uzbekistan,Developing
+2839,Uzbekistan,Developing
+2840,Uzbekistan,Developing
+2841,Uzbekistan,Developing
+2842,Uzbekistan,Developing
+2843,Vanuatu,Developing
+2844,Vanuatu,Developing
+2845,Vanuatu,Developing
+2846,Vanuatu,Developing
+2847,Vanuatu,Developing
+2848,Vanuatu,Developing
+2849,Vanuatu,Developing
+2850,Vanuatu,Developing
+2851,Vanuatu,Developing
+2852,Vanuatu,Developing
+2853,Vanuatu,Developing
+2854,Vanuatu,Developing
+2855,Vanuatu,Developing
+2856,Vanuatu,Developing
+2857,Vanuatu,Developing
+2858,Vanuatu,Developing
+2859,Venezuela (Bolivarian Republic of),Developing
+2860,Venezuela (Bolivarian Republic of),Developing
+2861,Venezuela (Bolivarian Republic of),Developing
+2862,Venezuela (Bolivarian Republic of),Developing
+2863,Venezuela (Bolivarian Republic of),Developing
+2864,Venezuela (Bolivarian Republic of),Developing
+2865,Venezuela (Bolivarian Republic of),Developing
+2866,Venezuela (Bolivarian Republic of),Developing
+2867,Venezuela (Bolivarian Republic of),Developing
+2868,Venezuela (Bolivarian Republic of),Developing
+2869,Venezuela (Bolivarian Republic of),Developing
+2870,Venezuela (Bolivarian Republic of),Developing
+2871,Venezuela (Bolivarian Republic of),Developing
+2872,Venezuela (Bolivarian Republic of),Developing
+2873,Venezuela (Bolivarian Republic of),Developing
+2874,Venezuela (Bolivarian Republic of),Developing
+2875,Viet Nam,Developing
+2876,Viet Nam,Developing
+2877,Viet Nam,Developing
+2878,Viet Nam,Developing
+2879,Viet Nam,Developing
+2880,Viet Nam,Developing
+2881,Viet Nam,Developing
+2882,Viet Nam,Developing
+2883,Viet Nam,Developing
+2884,Viet Nam,Developing
+2885,Viet Nam,Developing
+2886,Viet Nam,Developing
+2887,Viet Nam,Developing
+2888,Viet Nam,Developing
+2889,Viet Nam,Developing
+2890,Viet Nam,Developing
+2891,Yemen,Developing
+2892,Yemen,Developing
+2893,Yemen,Developing
+2894,Yemen,Developing
+2895,Yemen,Developing
+2896,Yemen,Developing
+2897,Yemen,Developing
+2898,Yemen,Developing
+2899,Yemen,Developing
+2900,Yemen,Developing
+2901,Yemen,Developing
+2902,Yemen,Developing
+2903,Yemen,Developing
+2904,Yemen,Developing
+2905,Yemen,Developing
+2906,Yemen,Developing
+2907,Zambia,Developing
+2908,Zambia,Developing
+2909,Zambia,Developing
+2910,Zambia,Developing
+2911,Zambia,Developing
+2912,Zambia,Developing
+2913,Zambia,Developing
+2914,Zambia,Developing
+2915,Zambia,Developing
+2916,Zambia,Developing
+2917,Zambia,Developing
+2918,Zambia,Developing
+2919,Zambia,Developing
+2920,Zambia,Developing
+2921,Zambia,Developing
+2922,Zambia,Developing
+2923,Zimbabwe,Developing
+2924,Zimbabwe,Developing
+2925,Zimbabwe,Developing
+2926,Zimbabwe,Developing
+2927,Zimbabwe,Developing
+2928,Zimbabwe,Developing
+2929,Zimbabwe,Developing
+2930,Zimbabwe,Developing
+2931,Zimbabwe,Developing
+2932,Zimbabwe,Developing
+2933,Zimbabwe,Developing
+2934,Zimbabwe,Developing
+2935,Zimbabwe,Developing
+2936,Zimbabwe,Developing
+2937,Zimbabwe,Developing
+2938,Zimbabwe,Developing
