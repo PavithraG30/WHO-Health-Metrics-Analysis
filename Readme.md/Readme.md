@@ -101,7 +101,7 @@ Currently building my portfolio in **Data Analysis** and **SQL + Tableau project
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pavithrag30/).
 
-📄 **License:** This project is licensed under the [MIT License](./LICENSE).
+📄 **License:** This project is licensed under the [MIT License](LICENSE).
 
 ---
 
